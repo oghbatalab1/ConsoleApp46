@@ -6,6 +6,7 @@ class student
     public int name { get; set; }
     public int family { get; set; }
     public int Grade { get; set; }
+    
 
 
 }
